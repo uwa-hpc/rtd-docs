@@ -1,7 +1,16 @@
-Some feature a
+The University of Western Australia 
+High Performance Computing Services
+
 ==================
 
-Subsection
+The University of Western Australia acknowledges that its campus is 
+situated on Noongar land, and that Noongar people remain the 
+spiritual and cultural custodians of their land, and continue to 
+practise their values, languages, beliefs and knowledge.
+
+Kaya!  Is the Noongar word for "hello" and is the ideal way to introduce 
+this new HPC service at UWA.
+
 ----------
 
 Welcome to the Kaya user documentation webpage.
